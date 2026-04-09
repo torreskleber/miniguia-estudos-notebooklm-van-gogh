@@ -268,83 +268,85 @@ Influência da arte japonesa (ukiyo‑e) em sua obra: cores planas, contornos ma
 Uso intencional das cores para transmitir estados emocionais e espirituais (ex.: amarelo = luz/esperança; azul = melancolia).
 
 ---
-### 🧰 Conjunto de Prompts Reutilizáveis  
+### 🧰 Conjunto de Prompts Reutilizáveis para NotebookLM  
 *Para apoiar futuras revisões e expansões do projeto **Converse com Vincent Van Gogh***  
 
-Este conjunto de prompts foi criado para facilitar atualizações, revisões e novas criações dentro do projeto.  
-Use-os sempre que quiser melhorar textos, gerar novas seções, criar perguntas ou expandir o conteúdo.
+Estes prompts foram criados para uso direto no **NotebookLM**, ajudando você a gerar análises, revisões, insights e novos conteúdos mantendo o estilo artístico, emocional e interpretativo do projeto.
 
 
-#### 🧠 Prompts para Revisão de Conteúdo
+#### 🧠 Prompts para Revisão e Melhoria de Conteúdo
 
-- **“Revise este texto mantendo o estilo do projeto *Converse com Vincent Van Gogh*, com foco em clareza, profundidade e sensibilidade artística.”**
-- **“Melhore este parágrafo para deixá-lo mais poético e alinhado ao tom emocional do projeto.”**
-- **“Reescreva este trecho com mais fluidez, mantendo precisão histórica e linguagem acessível.”**
-- **“Transforme este texto em uma versão mais concisa, sem perder o impacto emocional.”**
-- **“Aprimore este conteúdo para deixá-lo mais envolvente e coerente com o tema de Van Gogh.”**
-
-
-#### 🎨 Prompts para Criar Novas Seções
-
-- **“Crie uma nova seção para o README explicando *[tema]* no estilo do projeto *Converse com Vincent Van Gogh*.”**
-- **“Desenvolva um texto introdutório inspirado na sensibilidade artística de Van Gogh.”**
-- **“Crie uma análise temática sobre *[tema]* conectando vida, mente e obra de Van Gogh.”**
-- **“Escreva uma explicação simples e visual sobre *[conceito artístico]* para incluir no glossário.”**
-- **“Gere uma seção de insights interpretativos sobre como Van Gogh via *[tema]*.”**
+- “Reescreva este texto mantendo o estilo sensível, artístico e reflexivo do projeto *Converse com Vincent Van Gogh*.”
+- “Melhore a fluidez e profundidade deste trecho sem perder precisão histórica.”
+- “Transforme este parágrafo em uma versão mais poética e emocional, alinhada ao tema de Van Gogh.”
+- “Resuma este conteúdo de forma clara, mantendo o tom humanista do projeto.”
+- “Aprimore este texto para deixá-lo mais envolvente e coerente com a proposta do projeto.”
 
 
-#### 💬 Prompts para Criar Perguntas e Interações
+#### 🎨 Prompts para Criação de Novas Seções
 
-- **“Crie novas perguntas profundas que eu poderia fazer a Vincent Van Gogh sobre *[tema]*.”**
-- **“Gere perguntas filosóficas que revelem a mente e a sensibilidade de Van Gogh.”**
-- **“Crie perguntas curtas e impactantes para estimular reflexão no leitor.”**
-- **“Crie perguntas com emojis no estilo do projeto.”**
-- **“Gere perguntas que conectem arte, emoção e cotidiano.”**
+- “Crie uma nova seção explicando *[tema]* no estilo do projeto *Converse com Vincent Van Gogh*.”
+- “Desenvolva um texto introdutório inspirado na sensibilidade artística de Van Gogh.”
+- “Crie uma análise temática sobre *[tema]* conectando vida, mente e obra de Van Gogh.”
+- “Explique *[conceito artístico]* de forma simples, visual e acessível para incluir no README.”
+- “Gere uma seção interpretativa sobre como Van Gogh via *[tema]*.”
+
+
+#### 💬 Prompts para Perguntas e Interações
+
+- “Crie perguntas profundas que eu poderia fazer a Vincent Van Gogh sobre *[tema]*.”
+- “Gere perguntas filosóficas que revelem a mente e a sensibilidade de Van Gogh.”
+- “Crie perguntas curtas e impactantes com emojis no estilo do projeto.”
+- “Gere perguntas que conectem arte, emoção e cotidiano.”
+- “Crie perguntas que estimulem reflexão sobre a vida e obra de Van Gogh.”
 
 
 #### 📚 Prompts para Pesquisa e Fontes
 
-- **“Liste fontes abertas e confiáveis sobre *[tema]*, verificando se estão disponíveis.”**
-- **“Encontre PDFs em domínio público relacionados a *[tema]*.”**
-- **“Crie uma lista organizada de links sobre a vida e obra de Van Gogh.”**
-- **“Resuma o conteúdo das cartas de Van Gogh sobre *[tema]*.”**
-- **“Gere uma explicação baseada em fontes primárias sobre *[tema]*.”**
+- “Liste fontes abertas e confiáveis sobre *[tema]* e verifique se estão disponíveis.”
+- “Encontre PDFs em domínio público relacionados a *[tema]*.”
+- “Crie uma lista organizada de links sobre a vida, mente e obra de Van Gogh.”
+- “Resuma o que as cartas de Van Gogh dizem sobre *[tema]*.”
+- “Gere uma explicação baseada em fontes primárias sobre *[tema]*.”
 
 
 #### 🖼️ Prompts para Análises Artísticas
 
-- **“Analise a obra *[nome da obra]* conectando técnica, emoção e contexto de Van Gogh.”**
-- **“Explique o simbolismo das cores usadas por Van Gogh em *[obra]*.”**
-- **“Descreva o que esta pintura revela sobre o estado emocional de Van Gogh.”**
-- **“Crie uma interpretação poética de *[obra]* no estilo do projeto.”**
-- **“Explique a evolução artística de Van Gogh entre *[período]* e *[período]*.”**
+- “Analise a obra *[nome da obra]* conectando técnica, emoção e contexto histórico.”
+- “Explique o simbolismo das cores usadas por Van Gogh em *[obra]*.”
+- “Descreva o que esta pintura revela sobre o estado emocional de Van Gogh.”
+- “Crie uma interpretação poética de *[obra]* no estilo do projeto.”
+- “Explique a evolução artística de Van Gogh entre *[período]* e *[período]*.”
 
 
 #### 🧩 Prompts para Estrutura e Organização
 
-- **“Crie uma versão em Markdown desta seção para o README.md.”**
-- **“Organize este conteúdo em tópicos claros e visuais.”**
-- **“Transforme este texto em um bloco de documentação com emojis.”**
-- **“Crie uma linha do tempo estruturada sobre *[tema]*.”**
-- **“Gere um glossário expandido com ícones sobre *[tema]*.”**
+- “Transforme este conteúdo em Markdown para o README.md.”
+- “Organize este texto em tópicos claros, visuais e com emojis.”
+- “Crie uma linha do tempo estruturada sobre *[tema]*.”
+- “Gere um glossário expandido com ícones sobre *[tema]*.”
+- “Reestruture esta seção para deixá-la mais clara e navegável.”
 
 
 #### 🌟 Prompts para Experiências Interativas
 
-- **“Simule uma conversa imaginária com Van Gogh sobre *[tema]*, baseada em suas cartas.”**
-- **“Crie uma entrevista fictícia com Van Gogh, mantendo fidelidade histórica.”**
-- **“Gere uma reflexão que o leitor faria após ‘conversar’ com Van Gogh.”**
-- **“Crie um diálogo curto entre Van Gogh e um estudante de arte.”**
-- **“Escreva uma resposta que Van Gogh poderia dar a esta pergunta: *[pergunta]*.”**
+- “Simule uma conversa imaginária com Van Gogh sobre *[tema]*, baseada em suas cartas.”
+- “Crie uma entrevista fictícia com Van Gogh, mantendo fidelidade histórica.”
+- “Gere uma reflexão que o leitor faria após ‘conversar’ com Van Gogh.”
+- “Crie um diálogo curto entre Van Gogh e um estudante de arte.”
+- “Escreva uma resposta que Van Gogh poderia dar à pergunta: *[pergunta]*.”
 
 
 #### 🔧 Prompts para Atualizações Futuras
 
-- **“Sugira melhorias para a estrutura atual do projeto.”**
-- **“Crie novas ideias de seções para expandir o projeto.”**
-- **“Gere sugestões de conteúdo visual para enriquecer o README.”**
-- **“Crie uma versão mais madura e aprofundada desta seção.”**
-- **“Atualize este conteúdo mantendo o estilo e a identidade do projeto.”**
+- “Sugira melhorias estruturais para o projeto.”
+- “Crie novas ideias de seções para expandir o projeto.”
+- “Gere sugestões de conteúdo visual para enriquecer o README.”
+- “Atualize esta seção mantendo o estilo e a identidade do projeto.”
+- “Crie uma versão mais madura e aprofundada deste conteúdo.”
+
+---
+
 
 ---
 
